@@ -1,0 +1,8 @@
+test module test_baidu start >>>>>>>>>>>
+test class MyTest start >>>>>>>>
+test class MyTest end >>>>>>>>>>>>>
+test module test_baidu end >>>>>>>>>>>>>
+test module test_youdao start >>>>>>>>>>>
+test class MyTest start >>>>>>>>
+test class MyTest end >>>>>>>>>>>>>
+test module test_youdao end >>>>>>>>>>>>>

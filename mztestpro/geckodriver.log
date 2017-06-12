@@ -1,0 +1,31 @@
+1495551709804	geckodriver	INFO	Listening on 127.0.0.1:52591
+1495551710854	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495551712610	Marionette	INFO	Listening on port 40745
+1495551712686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bbs.res.meizu.com/static_new/pc/js/common/forum-cf4dc65a50.js, line 518: unreachable code after return statement
+1495551731317	Marionette	INFO	New connections will no longer be accepted
+1495551731338	geckodriver	INFO	Listening on 127.0.0.1:49575
+1495551732375	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495551733799	Marionette	INFO	Listening on port 33018
+1495551733884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bbs.res.meizu.com/static_new/pc/js/common/forum-cf4dc65a50.js, line 518: unreachable code after return statement
+1495551743496	Marionette	INFO	New connections will no longer be accepted
+1495551743524	geckodriver	INFO	Listening on 127.0.0.1:56049
+1495551744563	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495551745902	Marionette	INFO	Listening on port 37761
+1495551745978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bbs.res.meizu.com/static_new/pc/js/common/forum-cf4dc65a50.js, line 518: unreachable code after return statement
+1495551756285	Marionette	INFO	New connections will no longer be accepted
+1495551756301	geckodriver	INFO	Listening on 127.0.0.1:40417
+1495551757338	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495551758638	Marionette	INFO	Listening on port 45584
+1495551758666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bbs.res.meizu.com/static_new/pc/js/common/forum-cf4dc65a50.js, line 518: unreachable code after return statement
+1495551765516	Marionette	INFO	New connections will no longer be accepted
+[Child 16106] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495551765553	geckodriver	INFO	Listening on 127.0.0.1:49635
+1495551766590	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495551767994	Marionette	INFO	Listening on port 39592
+1495551768101	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bbs.res.meizu.com/static_new/pc/js/common/forum-cf4dc65a50.js, line 518: unreachable code after return statement
+1495551776360	Marionette	INFO	New connections will no longer be accepted
